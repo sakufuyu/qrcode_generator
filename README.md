@@ -35,7 +35,7 @@ Please enter the URL to generate a QR code => bioxsystems.com
 ```
 After entering the URL, a matplotlib window will open displaying your QR code.
 
-![QR Code Generator](https://github.com/sakufuyu/qrcode_generator/pics/qrcode.png)
+![QR Code Generator](https://github.com/sakufuyu/qrcode_generator/blob/main/pics/qrcode.png?raw=true)
 
 ## Customization
 You can modify the QR code parameters in the generate_qrcode function:
